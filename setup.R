@@ -5,7 +5,6 @@ library(dplyr)
 library(viridis)
 library(readr)
 
-list.files()
 
 # Load Data
  # Define the GitHub raw file URL
